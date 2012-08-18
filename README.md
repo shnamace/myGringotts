@@ -5,7 +5,7 @@ Overview
 This application is designed to store secret and important information such as bank account number and credit card information
 in iPhone. Although there are many great applications for this function, most of them are not free and I just wanted
 to protect my information via my own application.
-myGringotts App http://com.sunghak.myGringotts
+myGringotts App http://itunes.apple.com/kr/app/mygringotts/id548345306?mt=8
 
 AES256 Encryption and Decryption code is derived from RNCryptor, an open source.
 Thanks to Rop Napier, a developer of RNCryptor.
