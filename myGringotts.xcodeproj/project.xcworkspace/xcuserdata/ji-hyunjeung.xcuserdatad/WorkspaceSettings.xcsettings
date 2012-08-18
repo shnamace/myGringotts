@@ -3,13 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>BuildLocationStyle</key>
-	<string>UseTargetSettings</string>
+	<string>UseAppPreferences</string>
 	<key>CustomBuildLocationType</key>
 	<string>RelativeToDerivedData</string>
-	<key>DerivedDataCustomLocation</key>
-	<string>/app_final/APP_BUILD_WORKING_FOLDER</string>
 	<key>DerivedDataLocationStyle</key>
-	<string>AbsolutePath</string>
+	<string>Default</string>
 	<key>HasAskedToTakeAutomaticSnapshotBeforeSignificantChanges</key>
 	<true/>
 	<key>IDEWorkspaceUserSettings_BuildLocationStyle</key>
